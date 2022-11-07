@@ -1,4 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = ''
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hello-friend-ng'
+title = 'Michael John Calvey'
+theme = 'anubis'
+
+[Params]
+style = 'dark'

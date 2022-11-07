@@ -1,0 +1,1 @@
+Writing down thoughts is the best way to wrangle with understanding.

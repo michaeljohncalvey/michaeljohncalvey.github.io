@@ -1,0 +1,21 @@
+{{ define "main" }}
+<aside id="meta">
+    <div>
+        <section>
+            <a href="/essays">Essays</a>
+            <h1 id="title">{{ .Title }}</h1>
+            <h6 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+        </section>
+    </div>
+</aside>
+<section id="main">
+
+
+    <div>
+        <article id="content">
+            {{ .Content }}
+        </article>
+    </div>
+</section>
+
+{{ end }}
