@@ -3,5 +3,15 @@ languageCode = 'en-us'
 title = 'Michael John Calvey'
 theme = 'anubis'
 
+[menu]
+[main]
+
 [Params]
 style = 'dark'
+
+[deployment]
+
+[[deployment.targets]]
+name = 'production'
+url = 'gs://www.mjc.xyz'
+
