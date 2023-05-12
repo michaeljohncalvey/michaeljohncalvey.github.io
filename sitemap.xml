@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-11-06T22:28:21-05:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>/essays/</loc>
+    <lastmod>2022-11-06T22:28:21-05:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>/essays/another/</loc>
+    <lastmod>2022-11-06T22:28:21-05:00</lastmod>
+  </url><url>
+    <loc>/essays/test/</loc>
+    <lastmod>2022-11-06T17:07:21-05:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
