@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael John Calvey</title>
+    <link>/essays/</link>
+    <description>Recent content on Michael John Calvey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 17:07:21 -0500</lastBuildDate><atom:link href="/essays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>/essays/test/</link>
+      <pubDate>Sun, 06 Nov 2022 17:07:21 -0500</pubDate>
+      
+      <guid>/essays/test/</guid>
+      <description>Test content</description>
+    </item>
+    
+  </channel>
+</rss>
